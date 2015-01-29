@@ -1,7 +1,7 @@
 # trendelatradicion
 Tren de la Tradición
 
-Ete proyecto se trata de un servicio ferroviario de carácter turístico entre
+Este proyecto se trata de un servicio ferroviario de carácter turístico entre
 las estaciones Luján y Pergamino, con posible extensión a otro servicio entre
 Capilla del Señor y Pergamino.
 
