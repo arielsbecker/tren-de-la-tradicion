@@ -1,4 +1,4 @@
-# trendelatradicion
+# tren-de-la-tradicion
 Tren de la Tradición
 
 Este proyecto se trata de un servicio ferroviario de carácter turístico entre
